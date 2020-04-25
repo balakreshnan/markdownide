@@ -9,8 +9,13 @@ Create a model that can detect humans and how far they are between each other in
 > this is just an attempt to see if this is possible
 
 - Find data set
-- Image Tagg
+- Image Tagging
+- Distance Calculation
+- Model building
+- Validation and Testing
+
+The above are the steps planning to do.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3Mzk1OTQ1XX0=
+eyJoaXN0b3J5IjpbLTEwNjM3NDEwMTJdfQ==
 -->
